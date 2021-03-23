@@ -1,6 +1,4 @@
 #include <iostream>
-#include <algorithm>
-#include <string_view>
 #include "task_pool.h"
 using namespace std;
 int main(int, char **)
